@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @veeknd
 - 👀 I’m interested in IOT
 - 🌱 I’m currently learning Blockchain Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on starups working on blockchian
 - 📫 How to reach me sethumanikkams@gmail.com
 
 <!---
