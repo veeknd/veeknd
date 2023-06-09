@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @veeknd
-- 👀 I’m interested in IOT
-- 🌱 I’m currently learning Blockchain Development
-- 💞️ I’m looking to collaborate on starups working on blockchian
+- 👋 Hi, I'm @veeknd, a dedicated Full Stack Developer with a passion for crafting exceptional web experiences.
+
+- 🌱 Continuously expanding my skill set, I stay up-to-date with the latest technologies and frameworks to deliver cutting-edge solutions.
+
+- 👨‍💻  Experienced in both front-end and back-end development, I am proficient in HTML, CSS, JavaScript, Python, and frameworks like Flask and Django.
+
+- 🔧 Excited about learning and implementing the latest web development frameworks and tools to create cutting-edge solutions.
+
+- 💼 Adept at collaborating with cross-functional teams and translating client requirements into seamless user experiences.
+
+- ✨ Committed to delivering clean code, optimized performance, and exceptional user interfaces.
+
+- 🌟 Seeking opportunities to contribute to innovative projects and contribute to the growth of dynamic development teams.
+
 - 📫 How to reach me sethumanikkams@gmail.com
 
 <!---
