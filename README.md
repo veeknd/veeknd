@@ -1,8 +1,10 @@
-- 👋 Hi, I'm @veeknd, a dedicated Full Stack Developer with a passion for crafting exceptional web experiences.
+- 👋 Hi, I'm Sethu Manikkam, a dedicated Full Stack Developer with a passion for crafting exceptional web experiences.
 
 - 🌱 Continuously expanding my skill set, I stay up-to-date with the latest technologies and frameworks to deliver cutting-edge solutions.
 
-- 👨‍💻  Experienced in both front-end and back-end development, I am proficient in HTML, CSS, JavaScript, Python, and frameworks like Flask and Django.
+- 👨‍💻  Experienced in both front-end and back-end development, I am proficient in HTML, CSS, JavaScript, Bootstrap, Python, and frameworks like Flask and Django, FAST API.
+
+- -  ✨ Currently trying to explore java springboot framework. 
 
 - 🔧 Excited about learning and implementing the latest web development frameworks and tools to create cutting-edge solutions.
 
