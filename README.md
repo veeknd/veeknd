@@ -4,7 +4,7 @@
 
 - 👨‍💻  Experienced in both front-end and back-end development, I am proficient in HTML, CSS, JavaScript, Bootstrap, Python, and frameworks like Flask and Django, FAST API.
 
--  ✨ Currently trying to explore java springboot framework. 
+-  ✨ Currently trying to explore .Net CORE. 
 
 - 🔧 Excited about learning and implementing the latest web development frameworks and tools to create cutting-edge solutions.
 
