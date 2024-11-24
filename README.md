@@ -1,18 +1,12 @@
-- 👋 Hi, I'm Sethu Manikkam, a dedicated Full Stack Developer with a passion for crafting exceptional web experiences.
+Hi there! 👋 I'm Sethu Manikkam, a Software Engineer who loves building reliable and efficient backend systems. I’m passionate about solving problems with clean, scalable code and enjoy creating APIs that power seamless user experiences.
 
-- 🌱 Continuously expanding my skill set, I stay up-to-date with the latest technologies and frameworks to deliver cutting-edge solutions.
+I’ve got hands-on experience with both backend and frontend development. On the backend, I work with .NET Core, Django, FastAPI, and Flask, and I’m also skilled in databases like MSSQL and PostgreSQL. On the frontend, I’m comfortable with HTML, CSS, JavaScript, and Bootstrap.
 
-- 👨‍💻  Experienced in both front-end and back-end development, I am proficient in HTML, CSS, JavaScript, Bootstrap, Python, and frameworks like Flask and Django, FAST API.
+Right now, I’m diving deeper into .NET Core to strengthen my skills, but I’m always excited to explore and learn new tools and frameworks. I’ve worked on projects ranging from building secure RESTful APIs to ensuring HIPAA compliance for enterprise applications.
 
--  ✨ Currently trying to explore .Net CORE. 
+I love collaborating with teams—whether it’s developers, designers, or product owners—and translating ideas into working solutions. My focus is on writing clean, maintainable code and delivering products that not only work well but are also enjoyable to use.
 
-- 🔧 Excited about learning and implementing the latest web development frameworks and tools to create cutting-edge solutions.
-
-- 💼 Adept at collaborating with cross-functional teams and translating client requirements into seamless user experiences.
-
-- ✨ Committed to delivering clean code, optimized performance, and exceptional user interfaces.
-
-- 🌟 Seeking opportunities to contribute to innovative projects and contribute to the growth of dynamic development teams.
+I’m always looking for opportunities to work on interesting projects and contribute to innovative teams. Feel free to check out my work here or connect with me—I’d love to chat about tech or work on something cool together!
 
 - 📫 How to reach me sethumanikkams@gmail.com
 
